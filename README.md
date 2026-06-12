@@ -48,6 +48,9 @@ My background in computer engineering has fueled a strong passion for cybersecur
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
+## Badges
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="be9d9e79-f8bb-4e33-b1a0-ad1b3dab8502" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## Projects
 - Detection Lab
 - SOC Automation Project
